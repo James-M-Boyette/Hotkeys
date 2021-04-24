@@ -2,7 +2,7 @@
 For all the things that increase efficiency, using buttons
 
 
-# Mac ...
+# Mac (Terminal) ...
 #### Navigation
 
 - cd = move to root directory
