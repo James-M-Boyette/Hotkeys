@@ -12,3 +12,9 @@ For all the things that increase efficiency, using buttons
 #### File Management
 
 > - touch _filename_
+
+
+# Mark-Down
+- **Text** will make text bold
+- [] will make a check-box
+- [visible text, (no underlining necessary)](https://link.com/) will generate hyperlink
