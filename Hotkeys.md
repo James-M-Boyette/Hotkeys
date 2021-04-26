@@ -18,3 +18,5 @@ For all the things that increase efficiency, using buttons
 - **Text** will make text bold
 - [ ] will make a check-box
 - [visible text, (no underlining necessary)](https://link.com/) will generate hyperlink
+- <kbd>?</kbd> will make keyboard icon
+- sparkles: ?will make emoji?
